@@ -7,7 +7,10 @@ maison ligne 3
 maison ligne 4
 
 �cole ligne 5
-école ligne 6
+
+école et maison: ligne 6 en conflit
+
+
 
 
 
